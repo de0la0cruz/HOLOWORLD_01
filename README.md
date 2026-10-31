@@ -5,6 +5,9 @@ An open-source portrait of a philosophy: ethos, vibe, personality, and the metap
 ## What's here
 
 - **PHILOSOPHY.md** — the portrait: ethos, vibe, personality, philosophy, and a glossary of HOLOWORLD terms.
+- **SPECS.md** — the build specs: contents, the rhizome graph (19 nodes, 30 edges), method, and how to rebuild or extend it without the author.
+- **rhizome.html** — the interactive knowledge graph (open in a browser).
+- **graph.json** — the graph as queryable data.
 
 ## Use
 
